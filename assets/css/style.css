@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+}
+
+html,
+body {
+    color: #777777;
+    font-size: 18px;
+    line-height: 30px;
+    font-family: 'Lato', 'Helvetica Neue', Helvetica, sans-serif;
+    background-color: #E4EBF0;
+    height: 100%;
+}
+
+h1 {
+    font-family: 'Abril Fatface', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 60px;
+}
+
+#container {
+    width: 100%;
+    max-width: 960px;
+    margin: 0 auto;
+    clear: both;
+}
+
+.header {
+    background-color: #E4EBF0;
+    color: #337ab7;
+    height: 200px;
+}
